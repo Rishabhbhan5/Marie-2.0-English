@@ -22,9 +22,9 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
 
-My future updates will be put into This Channel - @Rishabhhelpbot & My Support Group @Worldchattinggroupforall.
+My future updates will be put into This Channel - @English_chatting_speaking & My Support Group @Worldchattinggroupforall.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/Rishabhbhan5/Marie-2.0-English),
+This is my [Group](https://t.me/worldchattinggroupforall),
 you can create clone same like me..
 
 For more commands click /help...
